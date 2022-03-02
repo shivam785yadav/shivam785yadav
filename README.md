@@ -1,22 +1,24 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shivam Yadav </h1>
+   <div align=center>
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Shivam+%F0%9F%91%8B;Computer+Science+Student;Back-End+Engineer;Problem+Solver;Open-Source+Enthusiast" alt="Headline" />
+    </div>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 
 I'm Shivam Yadav a Full Stack Web Developer and Content Creator. I Spend most of time coding projects and learning new technologies.
 <table align="center">
   <tr>
     <td>You are visitor</td>
-    <td><img src="https://profile-counter.glitch.me/Amansachan2611/count.svg" alt="vistor count" height="25" /></td>
+    <td><img src="https://profile-counter.glitch.me/shivam785yadav/count.svg" alt="vistor count" height="25" /></td>
   </tr>
 </table>
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Aman)](https://twitter.com/Aman) 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-sachan-315311206/)](https://www.linkedin.com/in/aman-sachan-315311206//) 
-[![Mail Badge](https://img.shields.io/badge/-Instagram-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/davilrocky_2611)
-[![Mail Badge](https://img.shields.io/badge/-Mail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:amansachana@gmail.com)
-[![Mail Badge](https://img.shields.io/badge/-Mail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:amansachana@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Aman)](https://twitter.com/ShivamY07880137) 
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-sachan-315311206/)](https://www.linkedin.com/mwlite/in/shivam-yadav-02529618b) 
+[![Mail Badge](https://img.shields.io/badge/-Instagram-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/)
+[![Mail Badge](https://img.shields.io/badge/-Mail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:sy78539@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-Mail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:sy78539@gmail.com)
 <!-- TODO: Add last video link -->
 
 - :computer: Most used line of code `git commit -m "Initial Commit"`
